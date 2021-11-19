@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ripple xmlns:android="http://schemas.android.com/apk/res/android" android:color="@color/colorPrimaryDark">
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/colorPrimaryDark">
     <item android:state_pressed="true">
         <shape android:shape="rectangle">
             <corners android:radius="15dp" />
@@ -7,9 +8,9 @@
         </shape>
     </item>
     <item android:state_pressed="false">
-    <shape android:shape="rectangle">
-        <corners android:radius="15dp" />
-        <solid android:color="@color/colorPrimary" />
-    </shape>
-</item>
+        <shape android:shape="rectangle">
+            <corners android:radius="15dp" />
+            <solid android:color="@color/colorPrimary" />
+        </shape>
+    </item>
 </ripple>

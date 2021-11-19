@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">WF</string>
+    <string name="search_hint">Название города</string>
+    <string name="search_button">Поиск</string>
+    <string name="current_weather_time">Погода на текущий момент.</string>
+    <string name="forecast_weather_time">Прогноз погоды на\u0020</string>
+    <string name="sunrise_time">Время рассвета:\u0020</string>
+    <string name="sunset_time">Время заката:\u0020</string>
+    <string name="pressure">Давление:\u0020</string>
+    <string name="humidity">Влажность:\u0020</string>
+    <string name="clouds">Облачность:\u0020</string>
+    <string name="uvi">УФ индекс:\u0020</string>
+    <string name="wind_speed">Скорость ветра:\u0020</string>
+    <string name="more">Подробная информация:\u0020</string>
+    <string name="feels_like">Чувствуется как:\u0020</string>
 </resources>

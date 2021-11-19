@@ -4,11 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Mi/Desktop/WF/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/Mi/Desktop/WF/app/src/main/res/drawable/button_style.xml" value="0.18425925925925926" />
         <entry key="..\:/Users/Mi/Desktop/WF/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/Mi/Desktop/WF/app/src/main/res/drawable/ic_search.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/Mi/Desktop/WF/app/src/main/res/drawable/search_field_style.xml" value="0.2421875" />
         <entry key="..\:/Users/Mi/Desktop/WF/app/src/main/res/drawable/standard_button_style.xml" value="0.159375" />
         <entry key="..\:/Users/Mi/Desktop/WF/app/src/main/res/drawable/standard_textcard_style.xml" value="0.159375" />
+        <entry key="..\:/Users/Mi/Desktop/WF/app/src/main/res/drawable/textcard_style.xml" value="0.18425925925925926" />
         <entry key="..\:/Users/Mi/Desktop/WF/app/src/main/res/layout/activity_details.xml" value="0.12360688956433637" />
-        <entry key="..\:/Users/Mi/Desktop/WF/app/src/main/res/layout/activity_weather.xml" value="0.264" />
+        <entry key="..\:/Users/Mi/Desktop/WF/app/src/main/res/layout/activity_weather.xml" value="0.3583138173302108" />
         <entry key="..\:/Users/Mi/Desktop/WF/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24351851851851852" />
         <entry key="..\:/Users/Mi/Desktop/WF/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.24351851851851852" />
       </map>
